@@ -1,5 +1,3 @@
-# father
-
 ## Project setup
 ```
 npm install
